@@ -36,4 +36,14 @@ Once you have installed Ollama and selected your model, you can run **DeepSeek-R
 2. Run the following command:
    ```bash
    ollama run deepseek-r1
-![image](https://github.com/user-attachments/assets/94dfc480-149e-44dd-9618-66e56b3985f7)
+![image](https://github.com/user-attachments/assets/24bac0af-ffa5-4de7-979e-034d26378629)
+
+
+## Step 4: Interact with the Model
+
+Once DeepSeek-R1 is running, you can start interacting with it.
+
+1. In your terminal, simply type your questions or commands.
+2. The model will respond to your input accordingly.
+
+![image](https://github.com/user-attachments/assets/f3c8bdda-0d1e-44b3-8f5c-64d983e51a43)
