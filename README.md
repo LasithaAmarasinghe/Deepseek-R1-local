@@ -10,8 +10,6 @@ To start, you need to download and install **Ollama**, which allows you to run l
 
 1. Go to the [Ollama Download Page](https://ollama.com/download).
 2. Select the version that matches your operating system.
-   - Available versions: **1.5b, 7b, 8b, 14b**, etc.
-   - Choose a model based on your computer’s performance. Higher models require more memory and processing power.
 
    ![Ollama download](https://github.com/user-attachments/assets/3a7c8a20-1e6f-4473-98f2-f0092f057768)
 
@@ -22,7 +20,9 @@ To start, you need to download and install **Ollama**, which allows you to run l
 After installing Ollama, you'll need to select the appropriate version of DeepSeek-R1.
 
 1. Visit the [DeepSeek-R1 Library](https://ollama.com/library/deepseek-r1).
-2. Select the model version that fits your system's capabilities (e.g., **1.5b** for lower-end systems or **14b** for higher-end systems).
+2. Select the model version that fits your system's capabilities
+   - Available versions: **1.5b, 7b, 8b, 14b**, etc.
+   - Choose a model based on your computer’s performance. Higher models require more memory and processing power.
 
    ![Model Selection](https://github.com/user-attachments/assets/88154691-f290-4766-9ef7-6a9c2f403e3f)
 
@@ -33,9 +33,9 @@ After installing Ollama, you'll need to select the appropriate version of DeepSe
 Once you have installed Ollama and selected your model, you can run **DeepSeek-R1** locally.
 
 1. Open your terminal or command prompt.
-2. Run the following command:
+2. Run the following command:  (replace n with the version you choose)
    ```bash
-   ollama run deepseek-r1
+   ollama run deepseek-r1-nb
 ![image](https://github.com/user-attachments/assets/24bac0af-ffa5-4de7-979e-034d26378629)
 
 
